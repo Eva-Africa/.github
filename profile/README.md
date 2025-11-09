@@ -1,6 +1,6 @@
 # Welcome to Eva Africa
 
-## About Us
+### About Us
 
 We are a technology-driven organization specializing in finance and business solutions. Our mission is to build robust, scalable applications that solve real-world financial and business challenges through innovative software development.
 
