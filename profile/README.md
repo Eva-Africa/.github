@@ -1,4 +1,4 @@
-# Welcome to Eva-Africa
+# Welcome to Eva Africa
 
 ## About Us
 
@@ -50,9 +50,7 @@ If you find our work valuable, consider:
 - 💡 Contributing code or ideas
 - 💖 Sponsoring our work
 
----
 
-<!--
 
 **Here are some ideas to get you started:**
 
